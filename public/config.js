@@ -7,7 +7,7 @@ window.Config = {
   ApiKeys: ["m788249118-0eb5c52973b24acd47bb6119", "m788249103-0d45a7872efcfc7b71d1108a", "m788463222-69a49addc03e650013857b96", "m795617654-3c7494e666e29ea8977b7a4e"],
 
   // 日志天数
-  CountDays: 90,
+  CountDays: 16,
 
   // 是否显示检测站点的链接
   ShowLink: true,
